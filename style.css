@@ -1,0 +1,10 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    background-color: rgb(156, 175, 136);
+    text-align: center;
+}
+
+.header{
+    color: antiquewhite;
+}
+.bucket{margin:0px auto; }
