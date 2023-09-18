@@ -2,6 +2,8 @@ body{
     font-family: 'Cabin', sans-serif;
     background-image:url(https://w0.peakpx.com/wallpaper/1022/99/HD-wallpaper-hello-kitty-pink-sanrio-kitty-cat-thumbnail.jpg) ;
     text-align: center;
+    color:antiquewhite;
+    font-size: 20px;
 }
 
 .header{
